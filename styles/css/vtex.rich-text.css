@@ -1,0 +1,80 @@
+.paragraph--0{
+    background: #F76161;
+    border-radius: 999px;
+    height: 20px;
+    width: 20px;
+    color: #fff;
+    padding-left: 6px;
+    margin-left: 1px;
+    font-size: 14px;
+}.paragraph--seta{
+    width: 20px;
+}.paragraph--seta2{
+    width: 20px;
+}
+
+/*seperação*/
+.container--bolas{
+    margin-top: 170px;
+    cursor: pointer;
+} 
+
+/*seperação*/
+.container--fones{
+    margin-top: 350px;
+    cursor: pointer;
+    margin-right: -215px;
+    cursor: pointer;
+}
+.container--pcs{
+    margin-top: 350px;
+    cursor: pointer;
+}.container--apple{
+    margin-top: 350px;
+    cursor: pointer;
+    margin-left: -215px;
+    cursor: pointer;
+}.image{
+    cursor: pointer;
+}
+.paragraph--fones{
+    cursor: pointer;
+
+}
+/*seperação*/
+.paragraph--bolas{
+    cursor: pointer;
+}
+.image--bolas{
+    cursor: pointer;
+}
+/*seperação*/
+.container--novos{
+    margin-top: 480px;
+    
+}.paragraph--novos{
+    color:  #23475E;
+    font-size: 24px;
+    font-weight: 700;
+}
+/*separação*/
+
+.container--pdp{
+    margin-top: 800px;
+    
+}.paragraph--pdp{
+    color:  #23475E;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/*separação*/
+
+.paragraph--depoi{
+    color:  #23475E;
+    font-size: 24px;
+    font-weight: 700;
+}.container--depoi{
+    margin-top: 240px;
+}
+

@@ -1,0 +1,24 @@
+.flexRowContent{
+    height: 80px;
+}
+.flexCol{
+   padding-top: 4px;
+   margin-right: 130px; 
+}.flexRow--treeinfocards1{
+    height: 66px;
+    background: #FCFCFC;
+    
+}.flexRow--shelf1{
+    margin-top: 150px;
+    width: 80%;
+    margin-left: 155px;
+    margin-bottom: 200px;
+}
+.flexRow--smartphones{
+    margin-bottom: 100px;
+}
+
+.flexRowContent--smartphones{
+    height: 680px;
+    padding-left: 180px;
+}
