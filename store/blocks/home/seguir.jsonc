@@ -1,0 +1,10 @@
+{
+    "rich-text#seguir": { 
+      "props": { 
+        "text": "SEGUIR",
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "blockClass": "seguir"
+      }
+    }
+  }

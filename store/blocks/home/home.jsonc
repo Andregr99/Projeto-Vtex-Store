@@ -13,8 +13,13 @@
       "flex-layout.row#desconto",
       "flex-layout.row#desc",
       "rich-text#pdp",
+      "flex-layout.row#promoshelf",
       "flex-layout.row#desver",
-      "rich-text#depoi"
+      "rich-text#depoi",
+      "rich-text#insta",
+      "rich-text#instat",
+      "rich-text#iprumo",
+      "rich-text#seguir"
       
     ]
   },
