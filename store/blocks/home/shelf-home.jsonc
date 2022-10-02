@@ -17,7 +17,7 @@
     "list-context.product-list#sumarydemo": {
       "blocks": ["product-summary.shelf"],
       "children": ["slider-layout#demo-products"],
-      "props": {
+      "props": {        
         "orderBy": "OrderByTopSaleDESC"
       }
     },
