@@ -13,8 +13,20 @@
       "flex-layout.row#desconto",
       "flex-layout.row#desc",
       "rich-text#pdp",
+      "flex-layout.row#promoshelf",
       "flex-layout.row#desver",
-      "rich-text#depoi"
+      "rich-text#depoi",
+      "flex-layout.row#depoit",
+      "flex-layout.row#bolls2-text",
+      "rich-text#insta",
+      "rich-text#instat",
+      "rich-text#iprumo",
+      "rich-text#seguir",
+      "rich-text#fique",
+      "flex-layout.row#fiquep",
+      "flex-layout.row#footerv",
+      "flex-layout.row#cards",
+      "flex-layout.row#bfooter"
       
     ]
   },
@@ -24,6 +36,13 @@
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "blockClass": "novos"
+    }
+  },"rich-text#fique": { 
+    "props": { 
+      "text": "Fique pordentro de todas as nossa novidades!",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "blockClass": "fique"
     }
   },
   "rich-text#pdp": { 
